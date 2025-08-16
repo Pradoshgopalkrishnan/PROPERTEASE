@@ -1,8 +1,6 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# <q>If you want, I can provide you with a downloadable README.md file as well. Would you like me to do that?</q> yeah gimme a file
 
-```markdown
+
 # README.md
 ```
 
@@ -134,5 +132,5 @@ Include a license here if you want (e.g., MIT, GPL, etc.)
 
 <div style="text-align: center">⁂</div>
 
-[^1]: COMPUTER-PROJECT.docx
+
 
