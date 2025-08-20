@@ -14,10 +14,7 @@ if os.path.exists(dotenv_path):
 else:
     print("❌ .env file not found at", dotenv_path)
 
-print("DB_HOST:", os.getenv("DB_HOST"))
-print("DB_USER:", os.getenv("DB_USER"))
-print("DB_PASS:", os.getenv("DB_PASS"))
-print("DB_NAME:", os.getenv("DB_NAME"))
+
 r=Tk()
 d = m.connect(
     host=os.getenv("DB_HOST"),
